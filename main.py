@@ -15,6 +15,7 @@ def add_cli(a, b):
     Args:
         a (int): first number
         b (int): secod number
+
     """
     click.echo(add(a, b))
 
