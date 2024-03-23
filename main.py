@@ -13,8 +13,8 @@ def add_cli(a, b):
     """Add two numbers
 
     Args:
-        a (int): first number
-        b (int): secod number
+        a (int): first numbers
+        b (int): secod numbers
 
     """
     click.echo(add(a, b))
